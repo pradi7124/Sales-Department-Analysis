@@ -33,9 +33,7 @@ Achieving the target is very important for any Sales Department. This Excel-base
 2. Open `Telecom_Churn_Dashboard.xlsm` in Excel
 3. Enable **macros** if prompted
 4. Use slicers to explore churn patterns by:
-   - Gender  
-   - Age Group  
-   - Subscription Type  
+   - Regions  
 
 ---
 
